@@ -1,4 +1,4 @@
-# Crossfit Competition API
+# API de competição de crossfit
 
 Este projeto é parte do desafio proposto pela DIO para o Bootcamp de Python Backend com IA, para criar uma poderosa API assíncrona para uma academia que organiza competições de crossfit, utilizando o framework FastAPI.
 
